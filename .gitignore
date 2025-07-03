@@ -1,0 +1,16 @@
+*.keras 
+!best_model_fold_1.keras 
+MICCAI_BraTS2018_Data_Training/ 
+MICCAI_BraTS2019_Data_Training/ 
+MICCAI_BraTS2020_TrainingData/ 
+*.mat 
+*.csv 
+*.json 
+*.ipynb_checkpoints/ 
+__pycache__/ 
+*.pyc 
+*.log 
+.DS_Store 
+Thumbs.db 
+.vscode/ 
+.idea/ 
